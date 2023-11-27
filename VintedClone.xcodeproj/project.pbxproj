@@ -120,6 +120,7 @@
 				11CED65E2B0F97DF0072A5D9 /* VintedCloneApp.swift */,
 				116A64752B1359CB00AA3E6B /* SelectBrandView.swift */,
 				11BE84A52B14F6AC00EC86E7 /* CustomColors.swift */,
+				1155D18A2B150D88003902DF /* SizeGuideView.swift */,
 				11BE849F2B14BAB500EC86E7 /* SelectPriceView.swift */,
 				11CED6602B0F97DF0072A5D9 /* ContentView.swift */,
 				11CED6622B0F97E10072A5D9 /* Assets.xcassets */,
@@ -137,7 +138,6 @@
 			isa = PBXGroup;
 			children = (
 				11CED6652B0F97E10072A5D9 /* Preview Assets.xcassets */,
-				1155D18A2B150D88003902DF /* SizeGuideView.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
